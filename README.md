@@ -1,6 +1,6 @@
 # SIM-Card-Forensics-Digital-Evidence: 
 
-Welcome to the paper titled "SIM Card Forensics: Digital Evidence," authored by Nada Ibrahim, Nuha Al Naqbi, Farkhund Iqbal, and Omar AlFandi from Zayed University's College of Technological Innovation. This paper explores the intricate details of SIM card forensics, focusing on the extraction and analysis of digital evidence from SIM cards. It is intended to serve as an educational resource, providing insights into the methodologies and techniques used in the field of digital forensics.
+Welcome to the paper titled "SIM Card Forensics: Digital Evidence," authored by Nada Ibrahim, Nuha Al Naqbi, Farkhund Iqbal, and Omar AlFandi from Zaayed University's College of Technological Innovation. This paper explores the intricate details of SIM card forensics, focusing on the extraction and analysis of digital evidence from SIM cards. It is intended to serve as an educational resource, providing insights into the methodologies and techniques used in the field of digital forensics.
 
 Legal Consequences of Misuse:
 
